@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="px_10">10dip</dimen>
+    <dimen name="px_20">20dip</dimen>
+    <!-- 扫描框下面的 字体大小 单位sp -->
+    <!-- 生成二维码的长宽大小 dp -->
+
+    <!-- 生成二维码的长宽大小 dp -->
+    <!-- 生成二维码的长宽大小 dp -->
+
+</resources>

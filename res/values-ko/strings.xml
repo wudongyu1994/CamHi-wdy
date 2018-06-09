@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">CamHi</string>
+    <string name="click_to_add_camera">터치하여 카메라 추가하기</string>
+    <string name="name">카메라이름:</string>
+    <string name="user_name">아이디:</string>
+    <string name="camera">Camera</string>
+    <string name="admin">admin</string>
+    <string name="uid">UID:</string>
+    <string name="psw">비밀번호</string>
+    <string name="search_in_lan">LAN에서 UID찾기</string>
+    <string name="cancel">Cancel</string>
+    <string name="tips_null_nike">[카메라이름]을 입력하세요.</string>
+    <string name="tips_null_uid">[UID]를 입력하세요.</string>
+    <string name="tips_null_username">[아이디]를 입력하세요.</string>
+    <string name="tips_add_camera_exists">이 카메라는 이미 존재합니다. 다른 UID를 선택하세요.</string>
+    <string name="setting">설정</string>
+    <string name="tips_msg_delete_camera">Are you sure you want to delete the camera?</string>
+    <string name="click_offline_setting">Cannot setup offline camera</string>
+    <string name="tips_no_permission">Please check the settings to open the relevant application permissions</string>
+    <string name="tips_remove_success">Remove camera successfully</string>
+    <string name="tips_internet_no_cameras">Devices not found on the internet</string>
+    <string name="uid_limit_input">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ- </string>
+    <string name="tips_limit_add_camera">Limits 64 cameras</string>
+    <string name="tip_device_add">Device added</string>
+    <string name="aleary_add_device">added</string>
+    <string name="disconnect">연결이 해제되었습니다</string>
+    <string name="tips_restart">다시 시작 중...</string>
+    <string name="tips_recovery">다시 시작하는 중...</string>
+    <string name="tips_update">업데이트 중...</string>
+    <string name="tips_username_tolong">사용자 이름 너무 길다</string>
+    <string name="tips_password_tolong">비밀번호 너무 길다</string>
+    <string name="hint_chart">단지 지원 영어 문자</string>
+    <string name="tips_invalid_uid">UID가 잘못되었습니다.</string>
+    <string name="tip_reminder">따뜻한 팁</string>
+</resources>

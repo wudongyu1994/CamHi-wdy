@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/HiPhotoView.jar" sourcepath="libs/HiPhotoView.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jg_filter_sdk_1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/wup-1.0.0.E-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/org.apache.http.legacy.jar"/>
+	<classpathentry kind="con" path="org.eclipse.andmore.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.andmore.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.andmore.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/hisdk.jar"/>
+	<classpathentry kind="lib" path="libs/mid-core-sdk-3.7.2.jar"/>
+	<classpathentry kind="lib" path="libs/Xg_sdk_v3.0_20170301_1733.jar"/>
+	<classpathentry kind="lib" path="libs/nineoldandroids-2.4.0.jar"/>
+	<classpathentry kind="lib" path="libs/glide-3.6.1.jar"/>
+	<classpathentry kind="lib" path="libs/bugly_crash_release.jar"/>
+	<classpathentry kind="lib" path="libs/zxing3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Android/android-sdk/extras/android/support/v4/android-support-v4.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">CamHi</string>
+    <string name="click_to_add_camera">Cliquez sur Add caméra</string>
+    <!-- General -->
+    <string name="cancel">annuler</string>
+    <!-- Add camera page -->
+    <string name="name">Nom:</string>
+    <string name="user_name"> Nom d’utilisateur:</string>
+    <string name="camera">Camera</string>
+    <string name="admin">admin</string>
+    <string name="uid">UID:</string>
+    <string name="psw"> Mot de passe :</string>
+    <string name="search_in_lan"> Recherche de LAN UID </string>
+    <string name="tips_null_nike">[Nom de la caméra] doit être saisi</string>
+    <string name="tips_null_uid"> Vous devez entrer un  [UID]</string>
+    <string name="tips_null_username"> Vous devez entrer un [nom d’utilisateur]</string>
+    <string name="tips_add_camera_exists"> La caméra existe déjà, veuillez ajouter des caméras</string>
+    <string name="setting"> Réglage</string>
+    <!-- live view setting -->
+    <!-- camera setting -->
+    <string name="tips_msg_delete_camera"> confirmer l’enlèvement de la caméra?</string>
+    <string name="click_offline_setting"> Ne peut pas configurer caméra en mode hors connexion</string>
+    <string name="tips_no_permission"> Veuillez vérifier les paramètres pour ouvrir les autorisations d’application pertinents </string>
+    <string name="tips_remove_success"> enlever la caméra ok </string>
+    <string name="tips_internet_no_cameras"> ne pas réussir à rechercher le Lan </string>
+    <string name="uid_limit_input">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ- </string>
+    <string name="tips_limit_add_camera">Peut ajouter jusqu à 64 caméras </string>
+    <string name="tip_device_add">L’appareil a été ajouté</string>
+    <string name="aleary_add_device">added</string>
+    <string name="disconnect">La connexion a été déconnecté</string>
+    <string name="tips_restart">Le redémarrage.</string>
+    <string name="tips_recovery">Dans la restauration.</string>
+    <string name="tips_update">Mises à jour.</string>
+    <string name="tips_username_tolong">Le nom d\'utilisateur est trop longue.</string>
+    <string name="tips_password_tolong">Le mot de passe est trop longue.</string>
+    <string name="hint_chart">Ne supporte de caractères anglais</string>
+    <string name="tips_invalid_uid">UID est invalide</string>
+    <string name="tip_reminder">Conseils chauds</string>
+</resources>

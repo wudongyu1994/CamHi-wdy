@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">CamHi</string>
+    <string name="click_to_add_camera">Clique aqui para adicionar cameras</string>
+    <string name="name">Nome:</string>
+    <string name="user_name">Nome do usuário:</string>
+    <string name="camera">Camera</string>
+    <string name="admin">admin</string>
+    <string name="uid">UID:</string>
+    <string name="psw">Senha:</string>
+    <string name="search_in_lan">Localizar UID da camera na rede</string>
+    <string name="cancel">Cancelar</string>
+    <string name="tips_null_nike">[Nome da camera] deve ser informado.</string>
+    <string name="tips_null_uid">[UID] n?o foi informada.</string>
+    <string name="tips_null_username">[Nome do usuário] n?o foi informado.</string>
+    <string name="tips_add_camera_exists">Esta camera já existe, tente outra.</string>
+    <string name="setting">Configura??es</string>
+    <string name="tips_msg_delete_camera">Você tem certeza de que deseja remover esta camera?</string>
+    <string name="click_offline_setting">Cannot setup offline camera</string>
+    <string name="tips_no_permission">Please check the settings to open the relevant application permissions</string>
+    <string name="tips_remove_success">Remove camera successfully</string>
+    <string name="tips_internet_no_cameras">Devices not found on the internet</string>
+    <string name="uid_limit_input">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ- </string>
+    <string name="tips_limit_add_camera">Limits 64 cameras</string>
+    <string name="tip_device_add">Device added</string>
+    <string name="aleary_add_device">added</string>
+    <string name="disconnect">Ligado desligado</string>
+    <string name="tips_restart">Reboot.</string>
+    <string name="tips_recovery">Durante a recuperação.</string>
+    <string name="tips_update">Update.</string>
+    <string name="tips_username_tolong">O Nome é Muito Longo.</string>
+    <string name="tips_password_tolong">A senha é Muito tempo.</string>
+    <string name="hint_chart">Suporta apenas inglês caracteres</string>
+    <string name="tips_invalid_uid">O UID é inválido</string>
+    <string name="tip_reminder">Dicas quentes</string>
+</resources>

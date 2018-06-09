@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="tab_name">
+		<item>cámara</item>
+		<item>imagen</item>
+		<item>vídeo</item>
+		<item>acerca</item>
+	</string-array>
+	<string-array name="connect_state">
+		<item>Disconnected</item>
+		<item>Connecting</item>
+		<item>Connecting</item>
+		<item>Wrong Password</item>
+		<item>Online</item>
+	</string-array>
+
+
+</resources>

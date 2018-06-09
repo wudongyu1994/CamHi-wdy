@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="tab_name">
+		<item>Kamera</item>
+		<item>Resim</item>
+		<item>Video</item>
+		<item>Hakkında</item>
+	</string-array>
+	<string-array name="connect_state">
+		<item>Çevrimdışı</item>
+		<item>Bağlanıyor</item>
+		<item>Bağlanıyor</item>
+		<item>Yanlış Şifre</item>
+		<item>Bağlı</item>
+	</string-array>
+
+
+</resources>

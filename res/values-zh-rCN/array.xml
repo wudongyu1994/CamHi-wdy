@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="tab_name">
+		<item>摄像机</item>
+		<item>照片</item>
+		<item>录像</item>
+		<item>关于</item>
+	</string-array>
+
+
+	<string-array name="connect_state">
+		<item>未连接</item>
+		<item>连接中&#8230;</item>
+		<item>连接中&#8230;</item>
+		<item>密码错误</item>
+		<item>在线</item>
+	</string-array>
+
+	<string-array name="device_timezone_old">
+		<item>GMT-11 中途岛;萨摩亚群岛;</item>
+		<item>GMT-10 夏威夷;</item>
+		<item>GMT-9 阿拉斯加;</item>
+		<item>GMT-8 太平洋时间(美国和加拿大);</item>
+		<item>GMT-7 山地时间(美国和加拿大);</item>
+		<item>GMT-6 中部时间(美国和加拿大);</item>
+		<item>GMT-5 东部时间(美国和加拿大);波哥大;利马;</item>
+		<item>GMT-4 大西洋时间(加拿大);圣地亚哥;拉巴斯;</item>
+		<item>GMT-3 巴西利亚;布宜诺斯艾利斯</item>
+		<item>GMT-2 中大西洋;</item>
+		<item>GMT-1 亚速尔群岛;佛得角群岛;</item>
+		<item>GMT 0 格林威治标准时间：伦敦;里斯本;卡萨布兰卡;</item>
+		<item>GMT+1 巴黎;柏林;罗马;马德里;</item>
+		<item>GMT+2 雅典;耶路撒冷;开罗;赫尔辛基;</item>
+		<item>GMT+3 莫斯科;内罗比;利雅得</item>
+		<item>GMT+4 巴库;第比利斯;阿布扎比;马斯喀特;</item>
+		<item>GMT+5 新德里;伊斯兰堡;卡拉奇;</item>
+		<item>GMT+6 达喀尔;阿拉木图;新西伯利亚;阿斯塔纳;</item>
+		<item>GMT+7 曼谷;河内;雅加达;</item>
+		<item>GMT+8 北京;新加坡;香港;台北;</item>
+		<item>GMT+9 首尔;雅库茨克;东京;</item>
+		<item>GMT+10 关岛;墨尔本;悉尼;</item>
+		<item>GMT+11 所罗门群岛;新喀里多尼亚;马加丹</item>
+		<item>GMT+12 惠灵顿;斐济;奥克兰</item>
+	</string-array>
+
+
+	<string-array name="device_timezone_new">
+		<item>国际日期变更线西12区</item>
+		<item>中途岛，萨摩亚群岛</item>
+		<item>夏威夷</item>
+		<item>阿拉斯加</item>
+		<item>太平洋时间（美国和加拿大）</item>
+		<item>奇瓦瓦，拉巴斯，马萨特兰</item>
+		<item>山地时间（美国和加拿大）</item>
+		<item>亚利桑那</item>
+		<item>萨斯喀彻温</item>
+		<item>瓜达拉哈拉，墨西哥城，蒙特雷</item>
+		<item>中部时间 (美国和加拿大)</item>
+		<item>哥斯达黎加</item>
+		<item>印第安纳州</item>
+		<item>东部时间 (美国和加拿大)</item>
+		<item>波哥大，利马，基多</item>
+		<item>加拉加斯</item>
+		<item>圣地亚哥</item>
+		<item>大西洋时间 (加拿大)</item>
+		<item>纽芬兰</item>
+		<item>蒙得维的亚</item>
+		<item>布宜诺斯艾利斯</item>
+		<item>圣保罗</item>
+		<item>中大西洋</item>
+		<item>佛得角群岛</item>
+		<item>亚速尔群岛</item>
+		<item>格林威治标准时间：都柏林，伦敦，里斯本</item>
+		<item>卡萨布兰卡</item>
+		<item>阿姆斯特丹，巴黎，柏林，罗马，马德里，斯多哥尔摩</item>
+		<item>贝尔格莱德，布拉迪斯拉发，布达佩斯，卢布尔雅那</item>
+		<item>布鲁塞尔，哥本哈根，马德里，巴黎</item>
+		<item>萨拉热窝，斯科普里，华沙，萨格勒布</item>
+		<item>中非西部</item>
+		<item>安曼</item>
+		<item>雅典，布加勒斯特，伊斯坦布尔</item>
+		<item>开罗</item>
+		<item>哈拉雷，比勒陀利亚</item>
+		<item>赫尔辛基，基辅，里加，索菲亚，塔林，维尔纽斯</item>
+		<item>耶路撒冷</item>
+		<item>巴格达</item>
+		<item>科威特，利雅得</item>
+		<item>莫斯科</item>
+		<item>内罗毕</item>
+		<item>德黑兰</item>
+		<item>阿布扎比，马斯喀特</item>
+		<item>巴库</item>
+		<item>喀布尔</item>
+		<item>叶卡捷琳堡</item>
+		<item>伊斯兰堡，卡拉奇</item>
+		<item>加尔各答，孟买，马德拉斯，新德里</item>
+		<item>加德满都</item>
+		<item>新西伯利亚</item>
+		<item>达卡</item>
+		<item>阿斯塔纳</item>
+		<item>仰光</item>
+		<item>曼谷，河内，雅加达</item>
+		<item>克拉斯诺亚尔斯克</item>
+		<item>北京，重庆，香港特别行政区，乌鲁木齐</item>
+		<item>伊尔库兹克</item>
+		<item>吉隆坡，新加坡</item>
+		<item>珀斯</item>
+		<item>台北</item>
+		<item>大阪，札幌，东京</item>
+		<item>首尔</item>
+		<item>雅库兹克</item>
+		<item>阿德莱德</item>
+		<item>布里斯班</item>
+		<item>堪培拉，墨尔本，悉尼</item>
+		<item>关岛，莫尔兹比港</item>
+		<item>霍巴特</item>
+		<item>符拉迪沃斯托克</item>
+		<item>马加达</item>
+		<item>奥克兰，惠灵顿</item>
+		<item>斐济</item>
+		<item>努库阿洛法</item>
+
+
+
+
+	</string-array>
+
+</resources>

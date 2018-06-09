@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">CamHi</string>
+    <string name="click_to_add_camera">点击添加摄像机</string>
+    <!-- General -->
+    <!-- Add camera page -->
+    <string name="name">名称:</string>
+    <string name="user_name">用户名:</string>
+    <string name="camera">摄像机</string>
+    <string name="admin">admin</string>
+    <string name="uid">UID:</string>
+    <string name="psw">密码:</string>
+    <string name="search_in_lan">局域网搜索UID</string>
+    <string name="tips_null_nike">必须输入[摄像机名称]</string>
+    <string name="tips_null_uid">必须输入[UID]</string>
+    <string name="tips_null_username">必须输入[用户名]</string>
+    <string name="tips_add_camera_exists">摄像机已经存在,请重新添加摄像机</string>
+    <string name="setting">设置</string>
+    <string name="btn_ok">是</string>
+    <!-- live view setting -->
+    <!-- camera setting -->
+    <string name="tips_msg_delete_camera">确定要删除摄像机吗？</string>
+    <string name="click_offline_setting">摄像机不在线</string>
+    <string name="tips_no_permission">请检查设置里面是否开启相关的应用权限</string>
+    <string name="tips_remove_success">成功删除摄像机</string>
+    <string name="tips_internet_no_cameras">未在网络中找到摄像机</string>
+    <string name="uid_limit_input">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ- </string>
+    <string name="tips_limit_add_camera">最多能添加64个摄像机</string>
+    <!--lt-->
+    <string name="tip_device_add">设备已添加</string>
+    <string name="aleary_add_device">已添加</string>
+    <string name="disconnect">连接已断开！</string>
+    <string name="tips_restart">重启中...</string>
+    <string name="tips_recovery">恢复中...</string>
+    <string name="tips_update">更新中...</string>
+    <string name="tips_username_tolong">用户名太长了</string>
+    <string name="tips_password_tolong">密码太长了</string>
+    <string name="hint_chart">只支持英文字符</string>
+    <string name="tips_invalid_uid">UID无效</string>
+    <string name="tip_reminder">温馨提示</string>
+    <string name="cancel">取消</string>
+</resources>

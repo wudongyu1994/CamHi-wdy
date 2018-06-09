@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">CamHi</string>
+    <string name="click_to_add_camera">クリックしてカメラ追加</string>
+    <!-- General -->
+    <string name="cancel">取消</string>
+    <!-- Add camera page -->
+    <string name="name">名称:</string>
+    <string name="user_name">ユーザ名:</string>
+    <string name="camera">カメラ</string>
+    <string name="admin">admin</string>
+    <string name="uid">UID:</string>
+    <string name="psw">パスワード:</string>
+    <string name="search_in_lan">LAN内スキャン</string>
+    <string name="tips_null_nike">入力必要[カメラ名称]</string>
+    <string name="tips_null_uid">入力必要[UID]</string>
+    <string name="tips_null_username">入力必要[ユーザ名]</string>
+    <string name="tips_add_camera_exists">カメラ登録,新しいカメラを追加下さい</string>
+    <string name="setting">設定</string>
+    <!-- live view setting -->
+    <!-- camera setting -->
+    <string name="tips_msg_delete_camera">カメラを削除しますか？</string>
+    <string name="click_offline_setting">カメラオフライン</string>
+    <string name="tips_no_permission">設定権限がありません。確認下さい。</string>
+    <string name="tips_remove_success">カメラ削除成功</string>
+    <string name="tips_internet_no_cameras">ネットワークにカメラを発見できません</string>
+    <string name="uid_limit_input">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ- </string>
+    <string name="tips_limit_add_camera">Limits 64 cameras</string>
+    <string name="tip_device_add">要求に失敗しました</string>
+    <string name="aleary_add_device">added</string>
+    <string name="disconnect">接続が切れている</string>
+    <string name="tips_restart">再起動中…</string>
+    <string name="tips_recovery">回復中…</string>
+    <string name="tips_update">En la actualización.</string>
+    <string name="tips_username_tolong">El nombre de usuario es demasiado largo</string>
+    <string name="tips_password_tolong">パスワードが長すぎて</string>
+    <string name="hint_chart">英文の文字をサポートする</string>
+    <string name="tips_invalid_uid">UIDが無効です</string>
+    <string name="tip_reminder">ウォームヒント</string>
+</resources>

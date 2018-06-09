@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="tab_name">
+		<item>카메라</item>
+		<item>스냅샷</item>
+		<item>비디오</item>
+		<item>정보</item>
+	</string-array>
+	<string-array name="connect_state">
+		<item>Disconnected</item>
+		<item>Connecting</item>
+		<item>Connecting</item>
+		<item>Wrong Password</item>
+		<item>Online</item>
+	</string-array>
+
+</resources>

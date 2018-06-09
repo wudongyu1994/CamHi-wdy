@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#ffffffff</color>
+    <color name="black">#000000</color>
+    <color name="edit_box_bg">#eeeeee</color>
+    <color name="font_normal">#757475</color>
+    <color name="radio_bg_normal">#dddddd</color>
+    <color name="main_bg">#212929</color>
+    <color name="text1">#59B29C</color>
+    <color name="text2">#333333</color>
+    <!-- 红色 -->
+    <!-- 绿色 -->
+
+
+    <color name="color_login">#446BB1</color>
+    <color name="color_pass_word">#C25B6B</color>
+    <color name="color_connected">#446BB1</color>
+    <color name="color_connecting">#008040</color>
+    <color name="color_disconnected">#434343</color>
+
+    <!--鱼眼引导圆的颜色 -->
+    <!--RF 蓝色 -->
+
+
+    <!--  设置 闪点的 颜色 黄色#c0ffff00,先修改为蓝色 -->
+    <!--  设置 扫描框 的 扫描线的颜色 红色,现在修改为 蓝色 -->
+    <!--  	设置 扫描框 的 扫描线  左边的颜色 红色,现在修改为 淀亮色 -->
+    <!-- 设置 扫描框 的 扫描线  中间的颜色 红色,现在修改为 蓝色 -->
+    <!--  设置 扫描框 的 扫描线  右边的颜色 红色,现在修改为 淀亮色 -->
+
+    <!--  设置 扫描框 的 四个角  的颜色  现在改为 蓝色-->
+    <!--  设置 扫描框 的  下面字体颜色     改为白色 -->
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">CamHi</string>
+    <string name="click_to_add_camera">Kamera Ekle</string>
+    <string name="name">Ad:</string>
+    <string name="user_name">Kullanıcı Adı:</string>
+    <string name="camera">Kamera</string>
+    <string name="admin">admin</string>
+    <string name="uid">UID:</string>
+    <string name="psw">Şifre</string>
+    <string name="search_in_lan">Ağda Kamera Ara</string>
+    <string name="cancel">İptal</string>
+    <string name="tips_null_nike">[Kamera Adı] girilmeli.</string>
+    <string name="tips_null_uid">[Cihaz ID] girilmedi.</string>
+    <string name="tips_null_username">[Kullanıcı Adı] girilmedi.</string>
+    <string name="tips_add_camera_exists">Bu kamera zaten eklenmiş, lütfen başka bir tane girin.</string>
+    <string name="setting">Ayarlar</string>
+    <string name="tips_msg_delete_camera">Kamerayı silmek istediğinize emin misiniz?</string>
+    <string name="click_offline_setting">Çevrimdışı kamera ayarlanamaz</string>
+    <string name="tips_no_permission">İlgili uygulama izinlerini açmak için ayarları kontrol edin.</string>
+    <string name="tips_remove_success">Kamera başarıyla kaldırıldı</string>
+    <string name="tips_internet_no_cameras">İnternete bağlı kamera bulunamadı</string>
+    <string name="uid_limit_input">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-—</string>
+    <string name="tips_limit_add_camera">Limit 64 kamera</string>
+    <string name="tip_device_add">Device added</string>
+    <string name="aleary_add_device">added</string>
+    <string name="disconnect">connection dropped</string>
+    <string name="tips_restart">Restart...</string>
+    <string name="tips_recovery">In recovery...</string>
+    <string name="tips_update">In update...</string>
+    <string name="tips_username_tolong">The username is too long</string>
+    <string name="tips_password_tolong">The password is too long</string>
+    <string name="hint_chart">Only English characters are supported</string>
+    <string name="tips_invalid_uid">UID geçersiz</string>
+    <string name="tip_reminder">Sıcak ipuçları</string>
+</resources>
