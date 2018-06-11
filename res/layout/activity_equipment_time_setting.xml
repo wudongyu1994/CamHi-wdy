@@ -83,7 +83,6 @@
                     android:layout_width="150dp"
                     android:layout_height="wrap_content"
                     android:layout_centerVertical="true"
-                    android:layout_toLeftOf="@+id/iv_arrow"
                     android:gravity="center"
                     android:singleLine="true"
                     android:textSize="14sp" />
@@ -125,7 +124,6 @@
                 android:textSize="18sp" />
 
             <RelativeLayout
-                android:id="@+id/rl_time_zone"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="13dp"
