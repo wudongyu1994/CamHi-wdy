@@ -13,6 +13,7 @@ import android.view.View.OnClickListener;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.hichip.R;
 import com.hichip.callback.ICameraIOSessionCallback;
@@ -126,33 +127,40 @@ public class AliveSettingActivity extends FragmentActivity implements OnClickLis
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
+        	//视频时长设置，默认180s=3min
             case R.id.timing_video: {
                 Intent intent = new Intent(AliveSettingActivity.this, TimeVideoActivity.class);
                 intent.putExtra(HiDataValue.EXTRAS_KEY_UID, mCamera.getUid());
                 startActivity(intent);
             }
             break;
+            //sd卡设置，可格式化视频
             case R.id.sd_card_set: {
                 Intent intent = new Intent(AliveSettingActivity.this, SDCardSettingActivity.class);
                 intent.putExtra(HiDataValue.EXTRAS_KEY_UID, mCamera.getUid());
                 startActivity(intent);
             }
             break;
+            //系统时间设置，可设置手机时间或时区时间到摄像头
             case R.id.equipment_time_setting: {
                 Intent intent = new Intent(AliveSettingActivity.this, TimeSettingActivity.class);
                 intent.putExtra(HiDataValue.EXTRAS_KEY_UID, mCamera.getUid());
                 startActivity(intent);
             }
             break;
+            //系统设置，可重启摄像头、可恢复摄像头出厂设置
             case R.id.system_settings: {
                 Intent intent = new Intent(AliveSettingActivity.this, SystemSettingActivity.class);
                 intent.putExtra(HiDataValue.EXTRAS_KEY_UID, mCamera.getUid());
                 startActivity(intent);
             }
             break;
+            //测试按钮，可以下载20分钟内的视频到指定目录
             case R.id.download_test: {
                 DownloadVideoUtils downloadVideoUtils = new DownloadVideoUtils(mCamera.getUid());
-                downloadVideoUtils.downloadVideo(System.currentTimeMillis() - 2 * 60 * 60 * 1000, System.currentTimeMillis());
+                //开始下载20分钟内的所有视频
+                Toast.makeText(AliveSettingActivity.this, "Start download", Toast.LENGTH_SHORT).show();
+                downloadVideoUtils.downloadVideo(System.currentTimeMillis() - 10 * 60 * 1000, System.currentTimeMillis());
             }
             break;
         }
